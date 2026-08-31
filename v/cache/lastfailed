@@ -1,0 +1,8 @@
+{
+  "backend/tests/test_api_integration.py::TestClient": true,
+  "backend/tests/test_api_integration.py::APIIntegrationTests": true,
+  "backend/tests/test_sos_alerts.py::TestClient": true,
+  "backend/tests/test_sos_alerts.py::SOSAlertTests": true,
+  "backend/tests/test_speech_pipeline.py::TestClient": true,
+  "backend/tests/test_speech_pipeline.py::SpeechPipelineTests": true
+}
